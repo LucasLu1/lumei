@@ -15,7 +15,7 @@ birthday = "03-03"
 app_id = "wx5bd444544d4e0395"
 app_secret = "1093aa59f62f4375edf8eabb10d6e4cc"
 
-user_id = ["o48d-5-RCCfOx2-8LOC2sM4X9BgU","o48d-55VgPhtIDviLsbDRYr0EPPI"]
+#user_id = ["o48d-5-RCCfOx2-8LOC2sM4X9BgU","o48d-55VgPhtIDviLsbDRYr0EPPI"]
 ###陆梅,"o48d-50mOxhy6NH9Tb5wKYM3wGEQ"
 template_id = "_5Oy3jvTMZnhSgkPb8lTpJVXkCPXqMTovxMNFXfOrWg"
 # user_ids=",".join(user_id)
